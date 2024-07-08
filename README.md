@@ -1,3 +1,7 @@
+Here is the resume formatted to ensure it retains its structure when copied into a Word document:
+
+---
+
 **YOSEF SOBOL**  
 +1 (832) 779-2212 | yys770770@gmail.com | [LinkedIn](https://linkedin.com/in/yossi-sobol)
 
@@ -74,3 +78,7 @@ December 2020 - Present
 - **Languages & Technologies**: Git, HTML/CSS, JavaScript, Node.js, AngularJS, React.js, PHP, TypeScript
 - **Frameworks & Libraries**: Bootstrap, Express.js, jQuery, Material-UI
 - **Tools & Platforms**: Agile, Digital Ocean, Docker, Figma, MongoDB
+
+---
+
+When you copy and paste this text into a Word document, it should retain its formatting with bold headings, bullet points, and proper spacing.
